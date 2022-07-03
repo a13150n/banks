@@ -1,0 +1,22 @@
+table{
+	color: white;
+border-style: solid;
+text-align: center;
+background-color: black;
+border-collapse: collapse;
+width: 50%;
+align-content: center;
+margin-left: auto;
+margin-right: auto;
+
+}
+button.hover{
+	background-color: crimson;
+}
+button{
+	background-color: cyan;
+}
+h1{
+	color: red;
+	text-align: center;
+}
